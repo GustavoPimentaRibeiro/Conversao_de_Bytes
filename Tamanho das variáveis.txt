@@ -1,0 +1,23 @@
+   TIPOS                                            DECIMAL MÁXIMO
+
+
+
+(char \ unsigned char) - 1 byte	->        	255
+
+
+
+(short int \ unsigned short int) - 2 bytes
+			->         	65.535
+
+
+
+(int \ long int \ unsigned int \ unsigned long int / float) - 4 bytes
+			->	4.294.967.295
+
+
+
+double - 8 bytes		->	18.446.744.073.709.552.000
+
+
+
+long double - 12 bytes	->	79.228.162.514.264.338.000.000.000.000
